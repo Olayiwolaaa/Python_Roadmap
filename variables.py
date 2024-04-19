@@ -16,6 +16,10 @@ z = float(3) # using floating casting
 # TYPE ✅
 foo = True
 
-print(type(foo))
+# print(type(foo))
 
 # SINGLE or DOUBLE QUOTE ✅
+
+print("...")
+
+# CASE-SENSITIVE ✅
