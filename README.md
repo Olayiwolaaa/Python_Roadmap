@@ -8,24 +8,23 @@
 7. For Loop
 8. Functions
 9. Dictionary
-10.Tuples
-Set
-Object-Oriented Programming
-File Handling
-Exception Handling
-Regular Expression
-Modules and Packages
-Data Structures
-Higher-Order Functions
-Python Web Scrapping
-Virtual Environment
-Web Application Project
-Git and GitHub
-Deployment
-Python Package Manager
-Python with MongoDB Database
-Building API
-Statistics with NumPy
-Data Analysis with Pandas
-Data Visualization with Matplotlib
-What to do Now?
+10. Tuples
+11. Set
+12. Object-Oriented Programming
+13. File Handling
+14. Exception Handling
+15. Regular Expression
+16. Modules and Packages
+17. Data Structures
+18. Higher-Order Functions
+19. Python Web Scrapping
+20. Virtual Environment
+21. Git and GitHub
+22. Deployment
+23. Python Package Manager
+24. Python with MongoDB Database
+25. Building API
+26. Statistics with NumPy
+27. Data Analysis with Pandas
+28. Data Visualization with Matplotlib
+29. What to do Now?
