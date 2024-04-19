@@ -20,6 +20,11 @@ foo = True
 
 # SINGLE or DOUBLE QUOTE ✅
 
-print("...")
+# print("...")
 
 # CASE-SENSITIVE ✅
+
+name = "Ahmed"
+Name = "John"
+
+print(Name)
