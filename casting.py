@@ -1,2 +1,5 @@
-y = str(3)
-print(y)
+x = str(3)
+y = int(3)
+z = float(3)
+
+print(x,y,z)

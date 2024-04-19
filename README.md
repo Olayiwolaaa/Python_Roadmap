@@ -1,4 +1,4 @@
-## The Roadmap is divided into 30 Sections
+# The Roadmap is divided into 30 Sections
 1. Introduction and Basics of Python
 2. Operators
 3. Conditional Statements
