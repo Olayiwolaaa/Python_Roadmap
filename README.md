@@ -21,7 +21,7 @@
 20. Virtual Environment
 21. Git and GitHub
 22. Deployment
-23. Python Package Manager
+23. thon Package Manager
 24. Python with MongoDB Database
 25. Building API
 26. Statistics with NumPy

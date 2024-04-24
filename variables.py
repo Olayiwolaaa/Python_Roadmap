@@ -43,3 +43,11 @@ myNewCar = "ferrari"
 MyNewCar = "bugatti"
 # Snake Case
 my_new_car = "benz"
+my_new_car = "you"
+def convert_to_fahrenheit(celsius_temp):
+    fahrenheit_temp = (celsius_temp * 9/5) + 32
+    return fahrenheit_temp
+
+# Call the function with an input value of 6 degrees Celsius
+print (convert_to_fahrenheit(8))g
+
